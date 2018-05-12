@@ -1,2 +1,2 @@
 # gitflowtest
-just for thes purposes
+just for test purposes
